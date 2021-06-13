@@ -8,7 +8,7 @@ class Student:
 
     class config:
 
-        def __init__(self, cpu='i5',ram='8gb'):
+        def __init__(self, cpu='i5',ram='16gb'):
             self.cpu = cpu
             self.ram = ram
 
